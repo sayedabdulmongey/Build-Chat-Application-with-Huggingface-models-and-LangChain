@@ -1,0 +1,7 @@
+python-dotenv==1.0.1
+langchain-community==0.3.7
+langchain-groq==0.2.1
+langchain-chroma==0.1.4
+pypdf==5.1.0
+langchain-huggingface==0.1.2
+tiktoken==0.8.0
